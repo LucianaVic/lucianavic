@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luciana Victoria</h1>
-<h3 align="center">A data scientist in training at Vale</h3>
+<h3 align="center">Analista de dados</h3>
 
 - 📫 How to reach me **lucianavictoria296@gmail.com**
 
